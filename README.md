@@ -4,7 +4,7 @@
 
 Бесплатный локальный переводчик и помощник ввода для Windows 11 (x64).
 
-**[Скачать portable-версию 1.0.0](https://github.com/vikaquest/ViTranslate/releases/tag/v1.0.0)** · **[Резервное скачивание на GitFlic](https://gitflic.ru/project/vikaquest/vitranslate/release)**
+**[Скачать portable-версию 1.0.0](https://github.com/vikaquest/ViTranslate/releases/tag/v1.0.0)** · **[Зеркало проекта на GitFlic](https://gitflic.ru/project/vikaquest/vitranslate)**
 
 ## Возможности
 
