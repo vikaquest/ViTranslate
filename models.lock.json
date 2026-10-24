@@ -1,0 +1,35 @@
+{
+  "index": "https://github.com/argosopentech/argospm-index/blob/main/index.json",
+  "models": [
+    {
+      "from_code": "ru",
+      "to_code": "en",
+      "package_version": "1.9",
+      "directory": "translate-ru_en-1_9",
+      "url": "https://argos-net.com/v1/translate-ru_en-1_9.argosmodel",
+      "sha256": {
+        "metadata.json": "2034d666010673068722bc15af5bb8561173665872867c89a1b99695f0fb25d0",
+        "README.md": "5a157fd062b9786eb4c7d5aa8fce0f3f01de0fa71c2f34fbf16e222c66ecd090",
+        "sentencepiece.model": "d324f59d3b5ba04d9b088e162b5e779e27a5eb72d56ec8e5e69a9efc1bf8f495",
+        "model/config.json": "3f1a3cc20b961c1fe0e6007e8ca663730c4a8b82fa54073fde03edf1402c6726",
+        "model/model.bin": "026d5f34266b4235c13fc29c665f151b88d0c1b02b0be7f87734fe9c511e20bc",
+        "model/shared_vocabulary.json": "32d134b048b6a27a48ba7fad9154976743b9bed9cbef7080b952108374d1cea1"
+      }
+    },
+    {
+      "from_code": "en",
+      "to_code": "ru",
+      "package_version": "1.9",
+      "directory": "translate-en_ru-1_9",
+      "url": "https://argos-net.com/v1/translate-en_ru-1_9.argosmodel",
+      "sha256": {
+        "metadata.json": "a40657925da1c25d98d8a6bc53c436a5b1179bd8771e016147d88587edf1b529",
+        "README.md": "ae9d1fa7d28837433eb979e5e442c3907fa84d10458ff9f3d23eb372bf0061cd",
+        "sentencepiece.model": "cdd7fd3f6b069cd1baa90d95682ec6851119ae0d734438ba85d3678b2f1e2a66",
+        "model/config.json": "3f1a3cc20b961c1fe0e6007e8ca663730c4a8b82fa54073fde03edf1402c6726",
+        "model/model.bin": "c262cce6a506447d4b3c7a899787694df13783340ba67f0df3ecbf046ae27924",
+        "model/shared_vocabulary.json": "5e39116c77f19b90841f9b0d0dbe4e38ecf6eadd43dff40ea1415104f441c720"
+      }
+    }
+  ]
+}

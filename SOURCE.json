@@ -1,0 +1,12 @@
+{
+  "snapshot_date": "2026-10-24",
+  "application": "ViTranslate",
+  "source_path": "backend/worker.py",
+  "application_source_sha256": "6ba84fe8d1a7b35e2480afbb7896a694375ec463898c99fd4edebb13026caffd",
+  "published_path": "worker.py",
+  "sha256": "a629fb162f1b3ee76ddda1fe1aae4f6782977d2125baa66b99719212962137c1",
+  "changes": [
+    "Model root uses the directory containing worker.py so all public files can live in the repository root. Inference and JSON-lines protocol unchanged."
+  ],
+  "note": "Other application source and binaries are not published here."
+}
